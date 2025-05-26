@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "mhTA_HQbbustc6uBg8y4wVAHnocc7WnUWrKPBFrxSwOLFNmBSzwLqyZMnKJKseJCNt9GdH2k2XPFhyd3q7iGmsWUtqvyLyn9BlzVeGXpIHxnN-KUEeCWulkmkzAXOb4gRkZd3kg1pSC3KxuhdwvA6OYJSYBfgRmRa7_9UzkDIWSbQCHknejgBSygTm5N-zvKFHohsqT6zLHCSN-7pzr9jomsVF2u_2gnn_1r0uqu0vMz1VwLhBA1W_6YywgxUvk3jKjtjmpTN2PNxBHy0tzMOblhD1EFcmUZDjeOA1_rptvW_XQUAoNcU0Y2imn_138oh-GE7Coh30P0UmvY96Jaaw",
+      "e": "AQAB",
+      "kid": "pangea-ecw-key-1"
+    }
+  ]
+}
