@@ -1,0 +1,17 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "xnVHdqWorDXiEO5W8mu22t-2gkE8lkvYQ8zp1DYPH0EK-VSrYZb5gPbZMBLG7iZvF5ZMY8fxzum0HOTsrrIwU8aNJVhUQcMpDhq0rrnCfmxtF9m9bGGuT4SKWWuX1XG8mZ-wJgKVnL1ZGZG_bCCrN_uDgn2ccHcp3-kOVEIKMMXOfI-B6WVrt0Gr-JkywmziYlNQ7iIQEHwKKcnz-qePvft1VY46emUZtlOLTIz7gwIn7744fzva9GD0_TxpCmvuoAXoQRVguwGTrpgOC3Aml89ZjMbHIOKGeVEv2DkBZJSqhH2bw-LA2bm_Xvq92fe4y6XAG87Qdg72RJ3tWxX-Rw",
+      "e": "AQAB",
+      "kid": "pangea-ecw-key-1",
+      "alg": "RS256",
+      "use": "sig",
+      "key_ops": [
+        "sign",
+        "verify"
+      ],
+      "ext": true
+    }
+  ]
+}
