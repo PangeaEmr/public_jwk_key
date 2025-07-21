@@ -1,16 +1,16 @@
 {
   "keys": [
     {
-      "e": "AQAB",
-      "kid": "pangea-key-1",
       "kty": "RSA",
-      "n": "xTKVTA99ach0kNaHU4uTNMpT__kQtL4IQFaNF8wjnjznIHWhrpVia5t9EcQER-YH28Rmbgz42T4DQnTyWKLTQ3detlvvWZkr38NuWheGxODGNYqH18_RtnbrbTSeCb5bEFwIiiNlBYxkhwZuqfMu02EeRMyqO7HvjKSi810B6eQ5c2t3I7oKLt3b7AIqq70-hXTyc1qYA-QYFeHoKSUGfNZb3ClKHbYM657WDzp7fbudNOKLhAmTPtXm2ESIv1v-LtTld9edVNRSXKo4Sdp0EdnwizoeFnQf_fJRC3kKATMGExJGfOTJaPE0xl7_SXlCysENma5dVvTSbX3tlVXUNf6r3a2QEfIzffbGmCJHy5FKVS7fMBOovKsKCNNjRYmHCGHhmhW-diE2JSMf_5QjBXlgkwK_6eTyxffcu2gZ8Cii-E0DjCyAQAImu_W89P3OY2LAqozc0MoPgfxlBLuDqI6r7oghSKnX5da0UvYSngo2NJ6fBmjm08NAojXJ6Zwh",
       "alg": "RS384",
+      "n": "xTKVTA99ach0kNaHU4uTNMpT__kQtL4IQFaNF8wjnjznIHWhrpVia5t9EcQER-YH28Rmbgz42T4DQnTyWKLTQ3detlvvWZkr38NuWheGxODGNYqH18_RtnbrbTSeCb5bEFwIiiNlBYxkhwZuqfMu02EeRMyqO7HvjKSi810B6eQ5c2t3I7oKLt3b7AIqq70-hXTyc1qYA-QYFeHoKSUGfNZb3ClKHbYM657WDzp7fbudNOKLhAmTPtXm2ESIv1v-LtTld9edVNRSXKo4Sdp0EdnwizoeFnQf_fJRC3kKATMGExJGfOTJaPE0xl7_SXlCysENma5dVvTSbX3tlVXUNf6r3a2QEfIzffbGmCJHy5FKVS7fMBOovKsKCNNjRYmHCGHhmhW-diE2JSMf_5QjBXlgkwK_6eTyxffcu2gZ8Cii-E0DjCyAQAImu_W89P3OY2LAqozc0MoPgfxlBLuDqI6r7oghSKnX5da0UvYSngo2NJ6fBmjm08NAojXJ6Zwh",
+      "e": "AQAB",
       "use": "sig",
       "key_ops": [
         "verify"
       ],
-      "ext": true
+      "ext": true,
+      "kid": "pangea-key-1"
     }
   ]
 }
