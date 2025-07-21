@@ -4,8 +4,8 @@
       "e": "AQAB",
       "kid": "pangea-key-1",
       "kty": "RSA",
-      "n": "2Qb_h-F8t7CZ15uMqrPBa5_5KDyMG5wePThdhoFam92LL6kdUF8Xw_7hybLYLde4RjwRQEMtoEpLaOgI-CiHl0T78MivH1BGOKD6xw6-9BiJeK5uMAt1B_3e3VoVrLqIcxQqhSqVOMC3pq5TV9GIHgumJjp0VGLY5chcHUe8QkrYAUgzwFgqhylkgBxgMB0q5ELaYniKK4Fm709wF2-Lya6SWX0Mcrk_mNpFRMDrJThXobLVNaMfv6qZ87HHyqbVMg8bkC0IQcAZrEJSQlehhDf87LU3q-cSO5lK0rml-zp6zMUNQx-eBAP63pbc8zRKLRjqUPVswaXRCaL8WzyvFw",
-      "alg": "RS384",
+      "n": "wsscD2QXVkyL0xUJNqjQti8c9WohXHcaqLQUWFIazVY4ZscAyNb0YqOfTCMS6auAJ0rV9XDp94x79S6zq_cB1JD-TF64-ybWMv21HQk7qcb4eUz8pUKDMW56EYVwzBbrmy0YhggFkh7JauisOqzjgBsXlM_0Wbz7OewUAGBNKeULxs4uQTRHE4YA9Ebam00B339_6FEoyfN1Ut9pwCRDMRwaVkgAo5-YPYqtMIkvSj8UDhqMKtrQNW7AtcIWdQkybXWU369B8PTFMxf6HJIcuioeS6bNDIZzLHaNw9GuX9Be2agXoKohYfJUb0FNqZbdnbPppTrGyV3jNwUYnQ5hsQ",
+      "alg": "RS256",
       "use": "sig",
       "key_ops": [
         "sign",
