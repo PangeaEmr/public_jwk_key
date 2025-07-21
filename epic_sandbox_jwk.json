@@ -1,16 +1,16 @@
 {
   "keys": [
     {
-      "kty": "RSA",
-      "alg": "RS256",
-      "n": "wsscD2QXVkyL0xUJNqjQti8c9WohXHcaqLQUWFIazVY4ZscAyNb0YqOfTCMS6auAJ0rV9XDp94x79S6zq_cB1JD-TF64-ybWMv21HQk7qcb4eUz8pUKDMW56EYVwzBbrmy0YhggFkh7JauisOqzjgBsXlM_0Wbz7OewUAGBNKeULxs4uQTRHE4YA9Ebam00B339_6FEoyfN1Ut9pwCRDMRwaVkgAo5-YPYqtMIkvSj8UDhqMKtrQNW7AtcIWdQkybXWU369B8PTFMxf6HJIcuioeS6bNDIZzLHaNw9GuX9Be2agXoKohYfJUb0FNqZbdnbPppTrGyV3jNwUYnQ5hsQ",
       "e": "AQAB",
+      "kid": "pangea-key-1",
+      "kty": "RSA",
+      "n": "mDriSVVfs6RvMa0mb4_HiiJob-b-SoAbGnPbTZhguJz2M1Rv2LBXNbvWgEDvanBD7yoVw1zRAdXVlbRfkftV1yJBzoGeGdZUhk2R5j_2flsf0SLH1OOwU31dz-HamwsnTLyquRceLUceiCZQ8T6jsE7QlnLGMr_K112ce0c7VVvF13221J6tPLi27OP6AwbWdh_guUtxKUte-kJDtqd_ymgabrEArk8sUqvGsDtkS7TeYFtpbnq01orNYGhyVQxM4UyorqtA1v7pCHUvnokxD5HHHshJljkMfHUend2JTrpYKB2ekGhA1Bor2fvyi7h4vnTjUwwkJ8lVG-NkHEPkhQ",
+      "alg": "RS384",
       "use": "sig",
       "key_ops": [
         "verify"
       ],
       "ext": true
-      "kid": "pangea-key-1",
     }
   ]
 }
