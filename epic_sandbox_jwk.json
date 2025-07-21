@@ -1,17 +1,17 @@
 {
   "keys": [
     {
-      "e": "AQAB",
-      "kid": "pangea-key-1",
       "kty": "RSA",
-      "n": "wsscD2QXVkyL0xUJNqjQti8c9WohXHcaqLQUWFIazVY4ZscAyNb0YqOfTCMS6auAJ0rV9XDp94x79S6zq_cB1JD-TF64-ybWMv21HQk7qcb4eUz8pUKDMW56EYVwzBbrmy0YhggFkh7JauisOqzjgBsXlM_0Wbz7OewUAGBNKeULxs4uQTRHE4YA9Ebam00B339_6FEoyfN1Ut9pwCRDMRwaVkgAo5-YPYqtMIkvSj8UDhqMKtrQNW7AtcIWdQkybXWU369B8PTFMxf6HJIcuioeS6bNDIZzLHaNw9GuX9Be2agXoKohYfJUb0FNqZbdnbPppTrGyV3jNwUYnQ5hsQ",
       "alg": "RS256",
+      "n": "wsscD2QXVkyL0xUJNqjQti8c9WohXHcaqLQUWFIazVY4ZscAyNb0YqOfTCMS6auAJ0rV9XDp94x79S6zq_cB1JD-TF64-ybWMv21HQk7qcb4eUz8pUKDMW56EYVwzBbrmy0YhggFkh7JauisOqzjgBsXlM_0Wbz7OewUAGBNKeULxs4uQTRHE4YA9Ebam00B339_6FEoyfN1Ut9pwCRDMRwaVkgAo5-YPYqtMIkvSj8UDhqMKtrQNW7AtcIWdQkybXWU369B8PTFMxf6HJIcuioeS6bNDIZzLHaNw9GuX9Be2agXoKohYfJUb0FNqZbdnbPppTrGyV3jNwUYnQ5hsQ",
+      "e": "AQAB",
       "use": "sig",
       "key_ops": [
         "sign",
         "verify"
       ],
       "ext": true
+      "kid": "pangea-key-1",
     }
   ]
 }
