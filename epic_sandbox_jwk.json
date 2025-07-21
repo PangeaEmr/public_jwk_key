@@ -7,7 +7,6 @@
       "e": "AQAB",
       "use": "sig",
       "key_ops": [
-        "sign",
         "verify"
       ],
       "ext": true
