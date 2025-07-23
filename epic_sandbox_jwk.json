@@ -2,15 +2,16 @@
   "keys": [
     {
       "kty": "RSA",
-      "alg": "RS384",
-      "n": "xTKVTA99ach0kNaHU4uTNMpT__kQtL4IQFaNF8wjnjznIHWhrpVia5t9EcQER-YH28Rmbgz42T4DQnTyWKLTQ3detlvvWZkr38NuWheGxODGNYqH18_RtnbrbTSeCb5bEFwIiiNlBYxkhwZuqfMu02EeRMyqO7HvjKSi810B6eQ5c2t3I7oKLt3b7AIqq70-hXTyc1qYA-QYFeHoKSUGfNZb3ClKHbYM657WDzp7fbudNOKLhAmTPtXm2ESIv1v-LtTld9edVNRSXKo4Sdp0EdnwizoeFnQf_fJRC3kKATMGExJGfOTJaPE0xl7_SXlCysENma5dVvTSbX3tlVXUNf6r3a2QEfIzffbGmCJHy5FKVS7fMBOovKsKCNNjRYmHCGHhmhW-diE2JSMf_5QjBXlgkwK_6eTyxffcu2gZ8Cii-E0DjCyAQAImu_W89P3OY2LAqozc0MoPgfxlBLuDqI6r7oghSKnX5da0UvYSngo2NJ6fBmjm08NAojXJ6Zwh",
+      "n": "mm_KVAm8OBDSD_g_GPGr_YGH3lGLQqP5JONsBh63c77Yrdk6ecrq9IwPLbiQ9V5cQzTyLJAYpbXnf_jifx92bZj4rzFrJwTFXnxeB7NlgmNPh6hoJTbAnq8wHaq49YCDJgGum7SkQauBdGeqzF-u1LRX8nwU7uMP9sHhUlvRX3fvR8PydEUs3ml6Ek7NJxAFgi-BBnUHmzRXba4WqLWacYAfsddo3lGRIfkv34ZPhx0zhVeok9j-opN46LhjJN4ltR-1z_6hPVKzpHCmeR1HTjNzJM03Tz8pR0PBpQdwi9oyqw_0P4St8h_KNwzMJ8NkRYi_XHf3rkl-djxWXFE3nw",
       "e": "AQAB",
+      "kid": "pangea-key-2",
+      "alg": "RS256",
       "use": "sig",
       "key_ops": [
+        "sign",
         "verify"
       ],
-      "ext": true,
-      "kid": "pangea-key-1"
+      "ext": true
     }
   ]
 }
